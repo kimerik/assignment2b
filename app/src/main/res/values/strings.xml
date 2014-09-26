@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Assignment2b</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_contact_details">ContactDetails</string>
+    <string name="title_activity_add_contact">AddContact</string>
+    <string name="detail_name">Name</string>
+    <string name="detail_age">Age</string>
+    <string name="detail_description">Description</string>
+    <string name="detail_des">Description</string>
+    <string name="detail_url">Img url</string>
+    <string name="update_btn">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete contact</string>
+    <string name="delete_contact">Delete this contact?</string>
+    <string name="img_url">Img url</string>
+    <string name="action_add_contact">Add contact</string>
+    <string name="update_img">Check image</string>
+
+</resources>
